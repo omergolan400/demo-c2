@@ -1,7 +1,9 @@
 Microsoft Windows [Version 10.0.19045.3570]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\omerg\source\repos\github_data\github_data\bin\Release\net6.0>cmd /k 
+C:\Users\omerg\source\repos\github_data\github_data\bin\Release\net6.0>cmd /k whoami
+desktop-tlq9umo\omerg
+
 C:\Users\omerg\source\repos\github_data\github_data\bin\Release\net6.0>
 C:\Users\omerg\source\repos\github_data\github_data\bin\Release\net6.0>
 C:\Users\omerg\source\repos\github_data\github_data\bin\Release\net6.0>
