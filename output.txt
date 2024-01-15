@@ -1,9 +1,10 @@
-Microsoft Windows [Version 10.0.22000.2538]
+Microsoft Windows [Version 10.0.19045.3803]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\omri\Downloads\net6.0>cmd /k hostname
-PC1925
+C:\Users\omerg\source\repos\github_data\github_data\bin\Release\net6.0>cmd /k whoami && hostname
+desktop-tlq9umo\omerg
 
-C:\Users\omri\Downloads\net6.0>
-C:\Users\omri\Downloads\net6.0>
-C:\Users\omri\Downloads\net6.0>
+C:\Users\omerg\source\repos\github_data\github_data\bin\Release\net6.0>
+C:\Users\omerg\source\repos\github_data\github_data\bin\Release\net6.0>DESKTOP-TLQ9UMO
+
+C:\Users\omerg\source\repos\github_data\github_data\bin\Release\net6.0>
