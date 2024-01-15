@@ -1,9 +1,1 @@
-Microsoft Windows [Version 10.0.19044.1288]
-(c) Microsoft Corporation. All rights reserved.
 
-C:\Users\om1\Documents\net6.0>cmd /k whoami 
-triad\om1
-
-C:\Users\om1\Documents\net6.0>
-C:\Users\om1\Documents\net6.0>
-C:\Users\om1\Documents\net6.0>
