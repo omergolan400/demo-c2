@@ -1,1 +1,26 @@
+Microsoft Windows [Version 10.0.19044.1288]
+(c) Microsoft Corporation. All rights reserved.
 
+C:\Users\om1\Documents\net6.0>cmd /k whoami && hostname && ipconfig
+triad\om1
+
+C:\Users\om1\Documents\net6.0>
+C:\Users\om1\Documents\net6.0>DESKTOP-01
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet0:
+
+   Connection-specific DNS Suffix  . : localdomain
+   Link-local IPv6 Address . . . . . : fe80::d929:1169:1c9b:fea8%2
+   IPv4 Address. . . . . . . . . . . : 192.168.242.129
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.242.2
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+C:\Users\om1\Documents\net6.0>
